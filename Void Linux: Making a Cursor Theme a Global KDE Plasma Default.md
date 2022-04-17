@@ -1,10 +1,10 @@
-Like you, I enjoy customizing my desktop (or ricing). I prefer **KDE Plasma Desktop Environment** because I don't have the time to learn Window Managers yet. When I thought was finished, I noticed that my desired cursor theme (DCT) is **_not applied globally_**; that when I hover on the desktop, the cursor _reverts_ to the default KDE Classic cursor theme.
+Like you, I enjoy customizing my desktop (or ricing). I prefer **[KDE Plasma Desktop Environment](https://xfano.github.io/posts/void-linux-installing-kde-plasma-desktop/)** because I don't have the time to learn Window Managers yet. When I thought was finished, I noticed that my desired cursor theme (DCT) is **_not applied globally_**; that when I hover on the desktop, the cursor _reverts_ to the default KDE Classic cursor theme.
 
-Of course I searched up for answers online to such a frustrating situation. Many suggested that one has to edit the ``index.theme`` file in the ``default folder`` in ``/usr/share/icons`` directory to set the desired cursor theme globally. But in my case, **Void Linux** _doesn't seem to have that file_.
+Of course I searched up for answers online to such a frustrating situation. Many suggested that one has to edit the ``index.theme`` file in the ``default folder`` in ``/usr/share/icons`` directory to set the desired cursor theme globally. But in my case, **[Void Linux](https://voidlinux.org/)** _doesn't seem to have that file_.
 
 When I checked Icons directory, I realized that my DCT can't be set globally because _its folder and the default folder_ is just not there. I'm only a beginner. I don't know where to find its folder and I tried looking for it! I wanted to just copy and paste it in the Icons directory because maybe that's the solution.
 
-So I decided to _download the tar of my DCT from the KDE store_ from my browser. 
+So I decided to **download the tar of my DCT** from the [KDE store](https://store.kde.org) from my browser. 
 
 ---
 
