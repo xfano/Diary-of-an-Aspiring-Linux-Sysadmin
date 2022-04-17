@@ -65,6 +65,6 @@ So I thought I'd have to mess with the KDE Classic folder in the Icons directory
 
 **4. Go to the System Settings, then Appearance, and lastly, Cursors:**
 
-Choose and apply KDE Classic that _should now relfect your DCT_. 
+Choose and apply KDE Classic that _should now reflect your DCT_. 
 
 If not, you may need to reboot.
