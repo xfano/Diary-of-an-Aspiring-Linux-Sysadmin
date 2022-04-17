@@ -45,7 +45,7 @@ So I thought I'd have to mess with the KDE Classic folder in the Icons directory
 
 ---
 
-**For the cursor theme problem,** here's what worked:
+**For the cursor theme problem,** here's what worked for me:
 
 **1. Remove the cursors folder in KDE Classic directory**
 
