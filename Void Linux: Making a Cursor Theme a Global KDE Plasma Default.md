@@ -22,7 +22,7 @@ Then I encountered another problem: I can't seem to find the tool to **extract t
 
 ---
 
-I was happy until I realized I simply can't copy and paste my DCT folder it in the Icons directory. It seems to me that Void Linux doesn't have the ``use as root`` option for Dolphin. No matter, there's the commandline for that. But it _still didn't work_. 
+I was happy until I realized I simply can't copy and paste my DCT folder in the Icons directory. It seems to me that Void Linux doesn't have the ``use as root`` option for Dolphin. No matter, there's the commandline for that. But it _still didn't work_. 
 
 I have made the ``default folder`` and the ``index.theme`` with the content: 
 
