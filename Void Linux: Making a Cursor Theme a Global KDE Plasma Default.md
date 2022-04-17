@@ -4,7 +4,7 @@ Of course I searched up for answers online to such a frustrating situation. Many
 
 When I checked Icons directory, I realized that my DCT can't be set globally because _its folder and the default folder_ is just not there. I'm only a beginner. I don't know where to find its folder and I tried looking for it! I wanted to just copy and paste it in the Icons directory because maybe that's the solution.
 
-So I decided to download the tar of my DCT from the KDE store. 
+So I decided to _download the tar of my DCT from the KDE store_ using a browser. 
 
 ---
 
